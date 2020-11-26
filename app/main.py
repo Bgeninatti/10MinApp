@@ -2,6 +2,9 @@
 
 
 class App:
+    """
+    This is a fancy app that shows its name.
+    """
 
     def __init__(self, name):
         self.name = name
